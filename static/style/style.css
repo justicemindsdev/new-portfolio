@@ -708,11 +708,16 @@ body {
             .slider {
                 margin-top: 8rem;
             }
+            
+        }
+
+        @media (max-width: 800px) {
             .credential-content {
                flex-direction: column;
             }
             .credential-badge {
                 padding: 0.4rem 0.8rem;
+                margin-left: -58px;
             }
         }
 
