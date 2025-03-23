@@ -287,10 +287,6 @@ body {
             margin: 6rem auto 8rem;
         }
 
-        .slider-wrapper {
-            width: 100%;
-        }
-
         .slider-content {
             position: absolute;
             width: 100%;
@@ -716,6 +712,11 @@ body {
         }
 
         @media (max-width: 800px) {
+            .slider-wrapper {
+                width: 100%;
+                overflow: hidden;
+            }
+            
             .credential-content {
                flex-direction: column;
             }
