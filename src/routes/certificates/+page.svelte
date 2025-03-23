@@ -8,9 +8,11 @@
     <p>Government-verified certifications and professional accreditations across law, psychology, and child advocacy.</p>
 </header>
 
-<div class="slider">
-    <div class="slider-content">
-        <!-- Generated dynamically with JavaScript -->
+<div class="slider-wrapper">
+    <div class="slider">
+        <div class="slider-content">
+            <!-- Generated dynamically with JavaScript -->
+        </div>
     </div>
 </div>
 
